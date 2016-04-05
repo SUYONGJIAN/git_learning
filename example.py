@@ -2,4 +2,6 @@
 
 import sys
 
-print 'Hello World!'
+print 'Hello!'
+
+print 'Change the example.py'
